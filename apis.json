@@ -1,0 +1,45 @@
+{
+    "name": "EtherCalc",
+    "description": "<p>Your data is saved on the web, and people can edit the same document at the same time. Everybody's changes are instantly reflected on all screens. Work together on inventories, survey forms, list management, brainstorming sessions and more!<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/EtherCalc.png",
+    "tags": [
+        "api provider",
+        "have api",
+        "spreadsheets"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/ethercalc\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "EtherCalc",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/EtherCalc.png",
+            "humanURL": "https:\/\/ethercalc.net\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/ethercalc-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/ethercalc-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Developers",
+            "url": "http:\/\/docs.ethercalc.apiary.io\/"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/ethercalc.net\/"
+        }
+    ]
+}
